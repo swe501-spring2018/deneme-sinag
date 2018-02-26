@@ -10,6 +10,7 @@
 using namespace std;
 
 int main() {
+	for (int i = 0; i < 10; i++)
 	cout << "yunus sina gulsen" << endl; // prints my name
 	return 0;
 }
